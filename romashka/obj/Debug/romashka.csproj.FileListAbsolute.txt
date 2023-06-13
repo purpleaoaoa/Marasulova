@@ -1,0 +1,14 @@
+C:\Users\avans\Source\Repos\romashka\bin\Debug\romashka.exe.config
+C:\Users\avans\Source\Repos\romashka\bin\Debug\romashka.exe
+C:\Users\avans\Source\Repos\romashka\bin\Debug\romashka.pdb
+C:\Users\avans\Source\Repos\romashka\obj\Debug\romashka.csproj.AssemblyReference.cache
+C:\Users\avans\Source\Repos\romashka\obj\Debug\romashka.csproj.SuggestedBindingRedirects.cache
+C:\Users\avans\Source\Repos\romashka\obj\Debug\romashka.Form1.resources
+C:\Users\avans\Source\Repos\romashka\obj\Debug\romashka.Properties.Resources.resources
+C:\Users\avans\Source\Repos\romashka\obj\Debug\romashka.csproj.GenerateResource.cache
+C:\Users\avans\Source\Repos\romashka\obj\Debug\romashka.csproj.CoreCompileInputs.cache
+C:\Users\avans\Source\Repos\romashka\obj\Debug\romashka.exe
+C:\Users\avans\Source\Repos\romashka\obj\Debug\romashka.pdb
+C:\Users\avans\Source\Repos\romashka\obj\Debug\romashka.Form2.resources
+C:\Users\avans\Source\Repos\romashka\obj\Debug\romashka.Form3.resources
+C:\Users\avans\Source\Repos\romashka\obj\Debug\romashka.Form4.resources
